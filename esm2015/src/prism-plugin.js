@@ -1,0 +1,6 @@
+export var PrismPlugin;
+(function (PrismPlugin) {
+    PrismPlugin["LineHighlight"] = "line-highlight";
+    PrismPlugin["LineNumbers"] = "line-numbers";
+})(PrismPlugin || (PrismPlugin = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHJpc20tcGx1Z2luLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vbGliL3NyYy9wcmlzbS1wbHVnaW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsTUFBTSxDQUFOLElBQVksV0FHWDtBQUhELFdBQVksV0FBVztJQUNyQiwrQ0FBZ0MsQ0FBQTtJQUNoQywyQ0FBNEIsQ0FBQTtBQUM5QixDQUFDLEVBSFcsV0FBVyxLQUFYLFdBQVcsUUFHdEIiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZW51bSBQcmlzbVBsdWdpbiB7XG4gIExpbmVIaWdobGlnaHQgPSAnbGluZS1oaWdobGlnaHQnLFxuICBMaW5lTnVtYmVycyA9ICdsaW5lLW51bWJlcnMnLFxufVxuIl19
